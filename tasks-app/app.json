@@ -1,0 +1,9 @@
+{
+  "name": "TasksApp",
+  "displayName": "Tasks App",
+  "entryPoint": "index.js",
+  "packagerOpts": {
+    "assetExts": ["ttf", "png"],
+    "sourceExts": ["ts", "tsx"]
+  }
+}
